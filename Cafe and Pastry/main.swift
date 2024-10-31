@@ -1,8 +1,8 @@
 import SwiftUI
 
-// NBCApp.swift
+// CAP.swift
 @main
-struct NBCApp: App {
+struct CAPapp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
