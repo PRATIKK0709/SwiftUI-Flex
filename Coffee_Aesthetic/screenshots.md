@@ -11,6 +11,4 @@ Explore the look and functionality of our app on the iPhone 15:
 ### Tips for Viewing
 For the best experience, view this document on a wide screen to fully appreciate the responsive layout.
 
----
 
-This format will render each screenshot in a compact, organized grid. If you’d like the images to display even larger, you could use HTML for direct control over image sizes and alignments within Markdown.
