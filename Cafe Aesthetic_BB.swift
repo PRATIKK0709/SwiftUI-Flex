@@ -1,4 +1,3 @@
-// ColorTheme.swift
 import SwiftUI
 
 @main
